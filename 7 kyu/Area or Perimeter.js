@@ -7,4 +7,4 @@ area_or_perimeter(3, 3) --> 9
 */
 
 // Solution:
-const areaOrPerimeter = (l , w) => l === w ? l * w : 2 * (l + w);
+const areaOrPerimeter = (l , w) => l===w ? l*w : 2*(l+w);
